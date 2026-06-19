@@ -1,0 +1,40 @@
+# ======================
+#  Python
+# ======================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# ======================
+#  File Dummy Eksperimen
+# ======================
+dummy_files/
+
+# ======================
+#  Output Visualisasi
+# ======================
+output_charts/
+
+# ======================
+#  Virtual Environment
+# ======================
+venv/
+.venv/
+env/
+
+# ======================
+#  IDE / Editor
+# ======================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ======================
+#  OS Generated
+# ======================
+.DS_Store
+Thumbs.db
+desktop.ini
